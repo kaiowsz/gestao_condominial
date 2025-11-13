@@ -1,0 +1,1 @@
+quem leu eh gay kkkkkkkkkkkkkkkkkkkkkkkkkkk
