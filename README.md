@@ -1,1 +1,1 @@
-quem leu eh gay kkkkkkkkkkkkkkkkkkkkkkkkkkk
+Sistema desenvolvido em C para gerenciamento de um condomínio, abrangendo o cadastro de moradores, unidades (apartamentos) e despesas.
